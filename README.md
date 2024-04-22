@@ -1,18 +1,18 @@
-# Nome do projeto
+# Acessibilidade de idosos em novas tecnologias
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+Atualmente, a falta de acessibilidade dos idosos às novas tecnologias é um desafio significativo. Muitos idosos enfrentam barreiras devido à complexidade das interfaces, falta de familiaridade com dispositivos digitais e dificuldade de aprendizado de novas habilidades tecnológicas. Isso os exclui de participar plenamente da sociedade digitalizada, limitando seu acesso a serviços online, comunicação virtual e oportunidades de aprendizado. Para resolver essa questão, é crucial desenvolver software que seja intuitivo, fácil de usar e adaptado às necessidades dos idosos. Interfaces simplificadas, recursos de acessibilidade, como ampliação de texto e voz, e programas de educação digital específicos para idosos podem ajudar a diminuir essa lacuna e permitir que os idosos aproveitem os benefícios das novas tecnologias de forma mais inclusiva e eficaz.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alexandre Santos Alcici Curi
+* Rafael Moreira João
+* Raphael Masato Hirashima Bernardes
+* Victor Amaral Guimaraes de Lima Souza
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Romeu Viera Carneiro 
+* Simone Alves Nogueira
 
 ## Instruções de utilização
 
